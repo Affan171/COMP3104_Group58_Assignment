@@ -10,3 +10,12 @@ Course Outcomes
 
 3. Foster effective collaboration among IT personnel by adhering to the roles and responsibilities of a DevOps engineer.
 
+4. Analyze and implement Version Control System workflows to facilitate low-risk software releases.
+
+5. Make informed architectural decisions regarding software products, particularly in the context of monolithic versus microservices architectures.
+
+6. Assess code quality and deploy applications to various hosting services.
+
+7. Leverage service platforms like Infrastructure as Code and understand the benefits of cloud computing solutions.
+
+8. Recognize the role and opportunities available in the market for DevOps engineers.
