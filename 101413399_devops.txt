@@ -2,3 +2,11 @@ In the COMP 3104 DevOps course, we will learn the procedures, protocols, and bes
 
 The course includes analysis and evaluation of different DevOps implementations, along with hands-on experience using industry-standard tools. 
 
+Course Outcomes
+
+1. Apply effective DevOps techniques and offer solutions using industry-standard tools and methods, including continuous integration, delivery, deployment strategies, the software development lifecycle, and application containerization for deployment.
+
+2. Engage in hands-on laboratory exercises by implementing DevOps practices.
+
+3. Foster effective collaboration among IT personnel by adhering to the roles and responsibilities of a DevOps engineer.
+
