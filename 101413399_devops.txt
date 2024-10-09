@@ -1,3 +1,4 @@
 In the COMP 3104 DevOps course, we will learn the procedures, protocols, and best practices used by DevOps engineers to enhance workplace productivity. 
 
+The course includes analysis and evaluation of different DevOps implementations, along with hands-on experience using industry-standard tools. 
 
