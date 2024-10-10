@@ -1,1 +1,4 @@
-Content: Write about the COMP3104 DevOps course
+COMP3104: DevOps course
+
+1. COMP3104: Practical DevOps Skills for the Modern Workforce
+The COMP3104: DevOps course focuses on bridging the gap between software development and IT operations. It equips students with the practical skills needed to streamline software delivery processes using automation, continuous integration, and continuous deployment (CI/CD) pipelines. Through hands-on labs and projects, students learn how to enhance collaboration between development and operations teams, ensuring faster, more reliable software releases.
