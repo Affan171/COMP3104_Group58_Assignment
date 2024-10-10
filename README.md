@@ -1,7 +1,7 @@
 # COMP3104_Group1_Assignment
 ## Group Members
 - **Leader:** Affan Shaikh (101413399) - [GitHub](https://github.com/Affan171)
-- **Member 2:** Aryan Patel (1023456) - [GitHub](https://github.com/janedoe)
+- **Member 2:** Aryan Patel (1023456) - [GitHub](https://github.com/aryan0322)
 - **Member 3:** John Smith (1027890) - [GitHub](https://github.com/johnsmith)
 ## Project Description
 This repository hosts the group assignment for COMP3104 DevOps course, focusing on 
