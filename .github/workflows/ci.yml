@@ -1,4 +1,4 @@
-name: Comp3104_Group_58_Assignment
+name: COMP3104_Group_58_Assignment
 run-name: ${{ github.actor }} is testing out GitHub Actions 🚀
 on: [push]
 jobs:
