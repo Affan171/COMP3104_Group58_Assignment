@@ -1,5 +1,15 @@
-In COMP3104 course we will learn the procedures, protocols and best practices that a DevOps
-engineer brings to a workplace environment to increase productivity. Analyze and evaluate
-various developer operation implementations available and implement hands-on work using
-industry standard toolkit. Create solutions to complex business problems by adhering to the core
-responsibilities of DevOps.
+The DevOps course (COMP3104) at George Brown College emphasizes the skills and best practices required for success as a DevOps engineer. Below is a breakdown of the course outline based on the provided document:
+
+Introduction to DevOps: The course begins by discussing the future of DevOps, the importance of build pipelines, and basic BASH commands, including setting up development environments and essential tools like Git and GitHub.
+
+Version Control Systems (VCS): Students learn the role of version control in DevOps, including how to utilize Git for both centralized and distributed workflows, and manage repositories using tools like GitHub Desktop.
+
+DevOps Tools and Techniques: The course covers critical DevOps tools and practices, such as continuous integration and deployment (CI/CD) using Jenkins, application containerization with Docker, and hosting single-page applications (SPAs).
+
+Cloud Infrastructure: Students explore cloud computing, cloud services (XaaS), serverless architecture, and security best practices in cloud-based DevOps environments.
+
+Automation and Quality Assurance: Topics include balancing automation, using tools like SonarQube for code quality checks, and performing automated testing with tools like Selenium and Appium.
+
+Assembly Lines and Advanced Tools: The final weeks focus on advanced DevOps concepts, such as CI pipeline management, server automation with Capistrano, and configuration management with tools like Ansible, Puppet, and Chef.
+
+Transitioning into DevOps: The course concludes by preparing students for real-world DevOps roles, covering market demand, interview preparation, and skill development.
