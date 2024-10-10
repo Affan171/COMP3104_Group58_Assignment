@@ -1,0 +1,21 @@
+In the COMP 3104 DevOps course, we will learn the procedures, protocols, and best practices used by DevOps engineers to enhance workplace productivity. 
+
+The course includes analysis and evaluation of different DevOps implementations, along with hands-on experience using industry-standard tools. 
+
+Course Outcomes
+
+1. Apply effective DevOps techniques and offer solutions using industry-standard tools and methods, including continuous integration, delivery, deployment strategies, the software development lifecycle, and application containerization for deployment.
+
+2. Engage in hands-on laboratory exercises by implementing DevOps practices.
+
+3. Foster effective collaboration among IT personnel by adhering to the roles and responsibilities of a DevOps engineer.
+
+4. Analyze and implement Version Control System workflows to facilitate low-risk software releases.
+
+5. Make informed architectural decisions regarding software products, particularly in the context of monolithic versus microservices architectures.
+
+6. Assess code quality and deploy applications to various hosting services.
+
+7. Leverage service platforms like Infrastructure as Code and understand the benefits of cloud computing solutions.
+
+8. Recognize the role and opportunities available in the market for DevOps engineers.
