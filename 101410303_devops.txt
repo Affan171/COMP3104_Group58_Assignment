@@ -1,0 +1,10 @@
+COMP3104: DevOps course
+
+1. COMP3104: Practical DevOps Skills for the Modern Workforce
+The COMP3104: DevOps course focuses on bridging the gap between software development and IT operations. It equips students with the practical skills needed to streamline software delivery processes using automation, continuous integration, and continuous deployment (CI/CD) pipelines. Through hands-on labs and projects, students learn how to enhance collaboration between development and operations teams, ensuring faster, more reliable software releases.
+
+2. Mastering Automation and Cloud Technologies
+In the COMP3104 course, students dive deep into automation tools and cloud technologies that are essential for modern DevOps practices. The course covers tools like Docker, Jenkins, and Kubernetes, giving students the technical proficiency to automate infrastructure and manage scalable, containerized applications. This knowledge is vital for companies looking to reduce manual effort, improve efficiency, and deliver products quickly in a cloud-driven world.
+
+3. Collaboration and Teamwork in DevOps
+COMP3104 emphasizes the importance of collaboration and communication in the DevOps workflow. Students work on team-based projects that simulate real-world DevOps environments, learning how to work effectively with development, operations, and testing teams. This collaborative approach helps them develop strong interpersonal skills and understand the cultural aspect of DevOps, which is just as important as the technical side.
